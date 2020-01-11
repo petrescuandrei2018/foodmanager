@@ -1,0 +1,18 @@
+ [
+  {
+  "id": 1,
+  "name": "Fructe"
+  },
+    {
+  "id": 2,
+  "name": "Legume"
+  },
+  {
+  "id": 3,
+  "name": "Paste"
+  },
+  {
+  "id": 4,
+  "name": "Deserter"
+  }
+]
